@@ -1,6 +1,22 @@
 # DG WinterCamp 2021
 
-This camp is going to be the best camp held so far!
+> This camp is going to be the best camp held so far!
+
+“Raqamli avlod -2022” IT oromgohida ishtirok etish uchun arizalar qabul qilish boshlandi!
+
+Ushbu keng ko’lamli IT tadbir 4-8-yanvar kunlari Toshkent shahridagi Muhammad Al-Xorazmiy maktabida online tashkil etiladi.
+
+IT oromgoh yo’nalishlari:
+
+⁃ [ ] Dasturlash asoslari(Python)
+⁃ [x] Frontend (Javascript, react)
+⁃ [ ] Backend(Django)
+⁃ [ ] .NET
+⁃ [ ] Grafik dizayn (Adobe Photoshop, Sketchbook)
+
+Shoshmasdan, tez-tez harakat qiling va hoziroq ushbu sayt orqali ro’yxatdan o’ting.
+
+https://digitalgeneration.uz
 
 ## Day 1
 
