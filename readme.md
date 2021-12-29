@@ -2,21 +2,19 @@
 
 > This camp is going to be the best camp held so far!
 
-“Raqamli avlod -2022” IT oromgohida ishtirok etish uchun arizalar qabul qilish boshlandi!
+Applications for participation in the IT camp "Digital Generation 2022" have started to be accepted!
 
-Ushbu keng ko’lamli IT tadbir 4-8-yanvar kunlari Toshkent shahridagi Muhammad Al-Xorazmiy maktabida online tashkil etiladi.
+This large-scale IT event will be held online on January 4-8 at the Muhammad Al-Khwarizmi School in Tashkent.
 
-IT oromgoh yo’nalishlari:
+## IT Camp Directions
 
-⁃ [ ] Dasturlash asoslari(Python)
-⁃ [x] Frontend (Javascript, react)
-⁃ [ ] Backend(Django)
-⁃ [ ] .NET
-⁃ [ ] Grafik dizayn (Adobe Photoshop, Sketchbook)
+- [ ] - Programming fundamentlas (Python)
+- [x] - Frontend (Javascript, react)
+- [ ] - Backend (Django)
+- [ ] - .NET
+- [ ] - GGraphic Design (Adobe Photoshop, Sketchbook)
 
-Shoshmasdan, tez-tez harakat qiling va hoziroq ushbu sayt orqali ro’yxatdan o’ting.
-
-https://digitalgeneration.uz
+Take your time and sign up now: https://digitalgeneration.uz
 
 ## Day 1
 
