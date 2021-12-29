@@ -46,6 +46,7 @@ This camp is going to be the best camp held so far!
 - [ ] React props
 - [ ] React Hooks
 - [ ] React Router DOM
-- [ ] How to writre NPM Package of your own?
-- [ ] Introduction to styled components
-- [ ] Building out your resume and further steps.
+- [ ] Bonuses
+  - [ ] How to writre NPM Package of your own?
+  - [ ] Introduction to styled components
+  - [ ] Building out your resume and further steps.
