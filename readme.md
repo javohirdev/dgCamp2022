@@ -2,8 +2,6 @@
 
 > This camp is going to be the best camp held so far!
 
-Applications for participation in the IT camp "Digital Generation 2022" have started to be accepted!
-
 This large-scale IT event will be held online on January 4-8 at the Muhammad Al-Khwarizmi School in Tashkent.
 
 ## IT Camp Directions
