@@ -14,16 +14,18 @@ This large-scale IT event will be held online on January 4-8 at the Muhammad Al-
 
 Take your time and sign up now: https://digitalgeneration.uz
 
-## Day 1
+## Frontend Development
 
-- [ ] About us
-- [ ] Introduction to the web
-- [ ] Introduction to how web works
+### Day 1
+
+- [x] About us
+- [x] Introduction to the web
+- [x] Introduction to how web works
 - [ ] Introduction to HTML/CSS
 - [ ] Box Model
 - [ ] Styling through Figma
 
-## Day 2
+### Day 2
 
 - [ ] Box Model
 - [ ] Positioning
@@ -32,14 +34,14 @@ Take your time and sign up now: https://digitalgeneration.uz
 - [ ] Using Variables in CSS
 - [ ] Introduction to SASS
 
-## Day 3
+### Day 3
 
 - [ ] Introduction to JavaScript
 - [ ] JavaScript Basics
 - [ ] JavaScript in Browser
 - [ ] Intorduction to the DOM and Event listeners
 
-## Day 4
+### Day 4
 
 - [ ] Basics of ES6
 - [ ] About modeule boundlers
@@ -49,7 +51,7 @@ Take your time and sign up now: https://digitalgeneration.uz
 - [ ] Git/Github
 - [ ] Deploying website netlify/vercel/github-pages
 
-## Day 5
+### Day 5
 
 - [ ] Introduction to ReactJS
   - [ ] How react works
