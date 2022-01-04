@@ -14,6 +14,8 @@ This large-scale IT event will be held online on January 4-8 at the Muhammad Al-
 
 Take your time and sign up now: https://digitalgeneration.uz
 
+# Community group on telegram: https://t.me/+pq2e6yKgRDRmMTU6
+
 ## Frontend Development
 
 ### Day 1
