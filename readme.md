@@ -23,7 +23,7 @@ Take your time and sign up now: https://digitalgeneration.uz
 - [x] About us
 - [x] Introduction to the web
 - [x] Introduction to how web works
-- [ ] Introduction to HTML/CSS
+- [x] Introduction to HTML/CSS
 - [ ] Box Model
 - [ ] Styling through Figma
 
