@@ -38,10 +38,10 @@ Take your time and sign up now: https://digitalgeneration.uz
 
 ### Day 3
 
-- [ ] Introduction to JavaScript
-- [ ] JavaScript Basics
-- [ ] JavaScript in Browser
-- [ ] Intorduction to the DOM and Event listeners
+- [x] Introduction to JavaScript
+- [x] JavaScript Basics
+- [x] JavaScript in Browser
+- [x] Intorduction to the DOM and Event listeners
 
 ### Day 4
 
