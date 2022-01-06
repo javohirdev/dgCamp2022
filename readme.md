@@ -29,12 +29,12 @@ Take your time and sign up now: https://digitalgeneration.uz
 
 ### Day 2
 
-- [ ] Box Model
-- [ ] Positioning
-- [ ] Flexbox
-- [ ] Grid
-- [ ] Using Variables in CSS
-- [ ] Introduction to SASS
+- [x] Box Model
+- [x] Positioning
+- [x] Flexbox
+- [x] Grid
+- [x] Using Variables in CSS
+- [x] Introduction to SASS
 
 ### Day 3
 
